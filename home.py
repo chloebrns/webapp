@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Titre 1")
 
 #sous titre
-st.subheader("test")
+st.subheader("teste")
 
 #texte
 st.write("simple text")
